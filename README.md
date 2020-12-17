@@ -1,3 +1,4 @@
+Console application<br/>
 Regular expressions exercise
 # Star Enigma
 The war is in its peak, but you, young Padawan, can turn the tides with your programming skills. You are tasked to create a program to __decrypt__ the messages of The Order and prevent the death of hundreds of lives. <br/>
